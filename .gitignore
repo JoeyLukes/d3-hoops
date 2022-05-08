@@ -32,6 +32,4 @@ creds.js
 # Data Files
 data/*
 output/*
-
-# Test files
-test_box_scrape.ipynb
+tests/*
