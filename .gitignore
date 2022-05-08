@@ -34,4 +34,4 @@ data/*
 output/*
 
 # Test files
-*test
+test_box_scrape.ipynb
